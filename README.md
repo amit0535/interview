@@ -97,6 +97,8 @@ rem vs em vs px
 ```
 getServerSideProps vs getStaticProps
 ```
-
+```
+Server Side Rendering (SSR) and Static Site Generation (SSG)
+```
 
 
