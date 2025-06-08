@@ -29,7 +29,7 @@ delete a[2]
 console.log(a.length)
 
 
-React
+### React
 
 1. What is prop drilling
 2. useContent
@@ -42,7 +42,7 @@ React
 9. Websocket
 10. Increase count by 1 every second
 
-MongoDb 
+### MongoDb
 
 Aggregation Pipeline
 Sharding Vs Replications
@@ -77,12 +77,13 @@ What is middleware
 What is JWT 
 Worker Threads
 
-CSS
+### CSS
 
 Draw a circle in css
 rem vs em vs px
 
-NEXT
+### NEXT
+getServerSideProps vs getStaticProps
 
 
 
