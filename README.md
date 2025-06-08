@@ -12,23 +12,33 @@ What is hoisting
 
 
 Output - 
-
+```
 4+'4'
-
+```
+```
 !![]
+```
+```
 typeof null
+```
+```
 typeof []
+```
 
+```
 const a=[1,2,3];
 b=a
 a.push(4);
 console.log(b);
+```
 
+```
 const a=[1,2,3]
 delete a[2]
 console.log(a.length)
+```
 
-
+ 
 ### React
 
 1. What is prop drilling
