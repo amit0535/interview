@@ -58,6 +58,7 @@ Aggregation Pipeline
 Sharding Vs Replications
 
 Get City Wise Count of persons
+```
 [{
   "_id": {
     "$oid": "665a05ae2673ca6662cd4468"
@@ -79,7 +80,7 @@ Get City Wise Count of persons
   "name": "Mayank",
   "city": "Kolkata  "
 }]
-
+```
 Express
 HTTP Methods
 How to create REST APIs.
