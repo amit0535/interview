@@ -100,5 +100,8 @@ getServerSideProps vs getStaticProps
 ```
 Server Side Rendering (SSR) and Static Site Generation (SSG)
 ```
+```
+Page Router (File Based Routing) vs App Router
+```
 
 
