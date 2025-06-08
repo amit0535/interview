@@ -94,7 +94,9 @@ Draw a circle in css
 rem vs em vs px
 
 ### NEXT
+```
 getServerSideProps vs getStaticProps
+```
 
 
 
